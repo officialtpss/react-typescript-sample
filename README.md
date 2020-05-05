@@ -1,5 +1,5 @@
-# react-typescript-sample
-Typescript, Props, State, Routing, Redux, material-ui, Authentication 
+# react-typescript-sample-project
+Typescript, Props, useEffect, Routing, Redux, Material-UI, Authentication 
 
 ### `npm install`
 
